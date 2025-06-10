@@ -57,16 +57,16 @@ body{
     border-radius: 10%;
     font-size: 70px;
     font-weight: 700;
-    color: rgb(165, 221, 160);
+    color: red;
     cursor: pointer;
-    background: linear-gradient(to up yellow, orange) ;
+    background: linear-gradient(to bottom, yellow, orange) ;
     transition: all 0.3s ease;
 }
 
 .btn:hover{
     transform: scale(1.1);
-    background: linear-gradient(to up, orange, yellow);
-    color: whitesmoke;
+    background: linear-gradient(to top, rgb(183, 228, 178), rgb(70, 83, 101));
+    color: plum;
 }
 
 
