@@ -57,9 +57,9 @@ body{
     border-radius: 10%;
     font-size: 70px;
     font-weight: 700;
-    color: plum;
+    color: rgb(165, 221, 160);
     cursor: pointer;
-    background: linear-gradient(to down, yellow, orange) ;
+    background: linear-gradient(to up yellow, orange) ;
     transition: all 0.3s ease;
 }
 
